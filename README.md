@@ -6,4 +6,4 @@ Exercices Formation Simplon en ligne (Semaine2)
 * strcuture CSS simple
 * initiation à l'usage du framework CSS *Bootstrap*  
 
-[My Code Academy Badges](https://www.codecademy.com/users/benj_ca/achievements)
+[My Code Academy (9 Badges)](https://www.codecademy.com/users/benj_ca/achievements)
